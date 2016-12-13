@@ -1,2 +1,4 @@
 test one file
 qqqqqqqqqqqqqqqqqqqq
+
+changed in jira7 branch
